@@ -26,13 +26,13 @@ const config = {
 		  routeBasePath: '/',
 		  path: 'guide',
           // Please change this to your repo.
-          editUrl: 'https://github.com/Shattered-Devs/Unity-Party/tree/gh-pages',
+          editUrl: 'https://github.com/Shattered-Devs/unityparty-docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Shattered-Devs/Unity-Party/tree/gh-pages',
+            'https://github.com/Shattered-Devs/unityparty-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Game Jolt',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://gamejolt.com/games/unityparty/632556',
               },
               {
                 label: 'Discord',
