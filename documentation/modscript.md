@@ -1,0 +1,2 @@
+# Modscript
+Unity Party has the ability to run external **C#** scripts that has the potential to interact with the engine itself. Modscripts can almost total freedom towards the engine, including the ability to load external resources during runtime.
